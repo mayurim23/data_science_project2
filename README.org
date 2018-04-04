@@ -116,27 +116,28 @@ I will go over basic of python and jupyter notebook.
 *No late hw will be accepted*
 
 * Course Activity
-|       Date | Reading/Coding Assignments                | class activity                                                                                              |
-|------------+-------------------------------------------+-------------------------------------------------------------------------------------------------------------|
-| 03-27-2018 | Finish excercise from                     | Went over jupyter notebook                                                                                  |
-|            |                                           | Please install required python software as mentioned in software  python section.                           |
-|            | https://github.com/QCaudron/pydata_pandas | Run *jupyter notebook* from the folder where your notebook  resides to start working on notebook            |
-|            |                                           | *ctr-enter* to run the cell without creating new cell                                                       |
-|            |                                           | *ctr- alt* to run the cell and create new cell                                                              |
-|            |                                           | change cell type for markdown to write markdown text. Write math in  $ $ symbol                             |
-|            |                                           | *ctr-s* to save content of notebook                                                                         |
-|            |                                           | to close the notebook just close the browser tab. to close the server press *ctr-c*                         |
-|            |                                           | Please remember handy command line commands *cd, ls, pwd, cp, mv,  mkdir*                                   |
-|------------+-------------------------------------------+-------------------------------------------------------------------------------------------------------------|
-| 03-29-2018 | exercise  [[./notebooks/numpy_basics.ipynb][numpy notebook]]                  | Covered creation, indexing, slicing, linear algebra and array oriented programming for n-dimensional array. |
-|            | [[./notebooks/numpy_basics_sol.ipynb][numpy notebook partial solution]]           | Also remember *any and all* method for boolean arrays.                                                      |
-|------------+-------------------------------------------+-------------------------------------------------------------------------------------------------------------|
-| 04-02-2018 | [[./notebooks/pandas_basics/pandas_basics.ipynb][pandas notebook]]                           | - Note that for getting slide dropdown in jupyter notebook                                                  |
-|            |                                           | *click on view(menubar on the top) -->cell toolbar --> slideshow.*  Slide selection will become active.     |
-|            |                                           | you can create slide and subslide, fragment etc. from drop down of slide type for each cell.                |
-|            |                                           | - T0 install slide show extension follow [[https://github.com/damianavila/RISE][Rise Slideshow Extension]] link or                                   |
-|            |                                           | do *conda install -c damianavila82 rise* from Anaconda installation                                         |
-|            |                                           | - Check *Runs and visualizes your python code in Python resource section* for visual representation of code |
-|            |                                           | - We also finalized schedule for notebook presentation. Check topics sections above for current schedule.   |
-|------------+-------------------------------------------+-------------------------------------------------------------------------------------------------------------|
-|            |                                           |                                                                                                             |
+|       Date | Reading/Coding Assignments                | class activity                                                                                                                                |
+|------------+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 03-27-2018 | Finish excercise from                     | Went over jupyter notebook                                                                                                                    |
+|            |                                           | Please install required python software as mentioned in software  python section.                                                             |
+|            | https://github.com/QCaudron/pydata_pandas | Run *jupyter notebook* from the folder where your notebook  resides to start working on notebook                                              |
+|            |                                           | *ctr-enter* to run the cell without creating new cell                                                                                         |
+|            |                                           | *ctr- alt* to run the cell and create new cell                                                                                                |
+|            |                                           | change cell type for markdown to write markdown text. Write math in  $ $ symbol                                                               |
+|            |                                           | *ctr-s* to save content of notebook                                                                                                           |
+|            |                                           | to close the notebook just close the browser tab. to close the server press *ctr-c*                                                           |
+|            |                                           | Please remember handy command line commands *cd, ls, pwd, cp, mv,  mkdir*                                                                     |
+|------------+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 03-29-2018 | exercise  [[./notebooks/numpy_basics.ipynb][numpy notebook]]                  | Covered creation, indexing, slicing, linear algebra and array oriented programming for n-dimensional array.                                   |
+|            | [[./notebooks/numpy_basics_sol.ipynb][numpy notebook partial solution]]           | Also remember *any and all* method for boolean arrays.                                                                                        |
+|------------+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 04-02-2018 | [[./notebooks/pandas_basics/pandas_basics.ipynb][pandas notebook]]                           | - Note that for getting slide dropdown in jupyter notebook                                                                                    |
+|            |                                           | *click on view(menubar on the top) -->cell toolbar --> slideshow.*  Slide selection will become active.                                       |
+|            |                                           | you can create slide and subslide, fragment etc. from drop down of slide type for each cell.                                                  |
+|            |                                           | - *click on cell -->All Output --> Clear to clear current output. Before submitting pull request to me for notebook addition, please do this* |
+|            |                                           | - T0 install slide show extension follow [[https://github.com/damianavila/RISE][Rise Slideshow Extension]] link or                                                                     |
+|            |                                           | do *conda install -c damianavila82 rise* from Anaconda installation                                                                           |
+|            |                                           | - Check *Runs and visualizes your python code in Python resource section* for visual representation of code                                   |
+|            |                                           | - We also finalized schedule for notebook presentation. Check topics sections above for current schedule.                                     |
+|------------+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
+|            |                                           |                                                                                                                                               |
