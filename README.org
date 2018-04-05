@@ -130,6 +130,14 @@ I will go over basic of python and jupyter notebook.
 * Homeworks
 *No late hw will be accepted*
 
+|-------+---------------------|
+| HW no | desciption and link |
+|       |                     |
+|-------+---------------------|
+|     2 | [[./hws/HW2_pandas_python.ipynb][pandas and python]]   |
+|       |                     |
+|-------+---------------------|
+|       |                     |
 * Course Activity
 |       Date | Reading/Coding Assignments                | class activity                                                                                                                                |
 |------------+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
