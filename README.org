@@ -164,4 +164,5 @@ I will go over basic of python and jupyter notebook.
 |            |                                           | - We also finalized schedule for notebook presentation. Check topics sections above for current schedule.                                     |
 |------------+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
 |            |                                           |                                                                                                                                               |
+| 04-05-2018 | [[./notebooks/debugging.ipynb][pandas, debugging, organising code etc]]    |                                                                                                                                               |
 |            |                                           |                                                                                                                                               |
