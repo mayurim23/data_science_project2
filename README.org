@@ -11,6 +11,9 @@
    - [[http://greenteapress.com/thinkstats2/html/index.html][Think Stats: Exploratory Data Analysis in Python]]
    -[[http://greenteapress.com/wp/think-bayes/][ Think Bayes]]  
    - [[http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/][Probabilistic Programming & Bayesian Methods for Hackers]]
+** optional material
+- [[https://www.youtube.com/watch?v=HN5d490_KKk][Sofia Heisler No More Sad Pandas Optimizing Pandas Code for Speed and Efficiency PyCon 2017]]
+
      
 * Course Description
   
