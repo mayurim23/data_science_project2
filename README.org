@@ -185,4 +185,4 @@ I will go over basic of python and jupyter notebook.
 |            |                                           |                                                                                                                                               |
 |            | [[./notebooks/debugging_inclass.ipynb][above notebook as ran in the class]]        |                                                                                                                                               |
 |------------+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
-|            |                                           |                                                                                                                                               |
+| 04-10-2018 | [[./notebooks/chapter6/DataLoading.ipynb][chapter6]]                                  |                                                                                                                                               |
