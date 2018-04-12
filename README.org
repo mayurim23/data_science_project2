@@ -141,19 +141,22 @@ I will go over basic of python and jupyter notebook.
 * Homeworks
 *No late hw will be accepted*
 
-|-------+--------------------------------------------------------------+---------------------|
-| HW no | desciption and link                                          |                     |
-|       |                                                              | Due date            |
-|-------+--------------------------------------------------------------+---------------------|
-|     1 | Finish assigned numpy notebook exercises                     |                     |
-|-------+--------------------------------------------------------------+---------------------|
-|     2 | [[./hws/HW2_pandas_python.ipynb][pandas and python]]                                            | April 10, 11.59 p.m |
-|       |                                                              |                     |
-|-------+--------------------------------------------------------------+---------------------|
-|     3 | Finish github and project activity as assigned in canvas hw3 | April 9, 11.59 p.m  |
-|       |                                                              |                     |
-|-------+--------------------------------------------------------------+---------------------|
-|       |                                                              |                     |
+|-------+-----------------------------------------------------------------+---------------------|
+| HW no | desciption and link                                             |                     |
+|       |                                                                 | Due date            |
+|-------+-----------------------------------------------------------------+---------------------|
+|     1 | Finish assigned numpy notebook exercises                        |                     |
+|-------+-----------------------------------------------------------------+---------------------|
+|     2 | [[./hws/HW2_pandas_python.ipynb][pandas and python]]                                               | April 10, 11.59 p.m |
+|       |                                                                 |                     |
+|-------+-----------------------------------------------------------------+---------------------|
+|     3 | Finish github and project activity as assigned in canvas hw3    | April 9, 11.59 p.m  |
+|       |                                                                 |                     |
+|-------+-----------------------------------------------------------------+---------------------|
+|     4 | [[./hws/chapter7_ex.ipynb][pandas data cleaning and some python]]                            | April 17, 11.59 p.m |
+|       | **suffix your name in the notebook before uploading to canvas** |                     |
+|-------+-----------------------------------------------------------------+---------------------|
+|       |                                                                 |                     |
 
 * Course Activity
 |       Date | Reading/Coding Assignments                | class activity                                                                                                                                |
