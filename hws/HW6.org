@@ -1,0 +1,42 @@
+Please finish following project activity in the github. After this we should be done with  any data cleaning activity and proceed with EDA.
+
+Following questions assumes that your data frame is stored in a variable df. 
+
+In github modify your objective as you are getting more insight.
+
+If your code  is  not in a python file .py. run
+ - jupyter nbconvert --to script [YOUR_PROJECT].ipynb to create  python file. This file will contain all the code from your notebook.
+ - Remove get_ipython().run_line_magic('matplotlib', 'inline')  line from your_project.py file
+ - Remove any # In[1] ... kind of lines 
+ - Then create a new notebook and put the code *%matplotlib inline* in first cell
+ - In the second cell put the code *run  YOUR_PROJECT.py* . If you run the notebook it will run all the code  you had in the old notebook.
+ 
+Later I will help in further organization of the code for each project.
+
+Following activities will be graded.
+
+1) (1 point) create a branch for HW6_youname using branch command. You may want to look into previous quarter git resources. 
+   Even if two person are working in a project, please create your own branch. Switch to your branch and work there in file  *your_project.py*.
+   Push you branch to github too. 
+ In case of multiple students are in a project, I'll advise put a Comment in *your_project.py* indicating your section of code. See [[./test/py][this file]] for example.
+  Also for
+  - jury project divide the work between new and old dataset 
+  - Lego Project divide the work for 8 table.
+  
+Please do the following for each dataframe.
+2) Finish data cleaning. Each activity 1 point.
+ - Show that column names are corrected. show the output of  *print (df.columns)*. If not, correct them and show the output again.
+ - Check which columns have missing values of interest. show the output of *print(df.isnull().any())*
+ - print the observation where null values are occurring. Pandas isna will help in getting boolean indices and you can investigate further.
+ - If you are deciding to drop an observation please  write in markdown cell why are you dropping observations. You may want to  use dropna with inplace argument.
+    If not dropping any value , write no NA.
+ - show the output of *print(df.dtypes)*
+ - Please write in markdown the name of columns you are interested in and have wrong dtype. *If all dtype is correct. Write correct dtypes.*
+ - Correct dtypes of the data.  You may want to convert to  int,  float, date time  or  *category*  dtype. You may want to use applymap or map for more
+   complex formatting  needs. Also if you need to create a different column based on some columns, please do that.  
+   This step is very important to make sure visualization and algebra down the line works smoothly. *If all dtype is correct. Write correct dtypes. conversion not required.*
+ - Again show the output of *print(df.isnull().any())*. You should not have any *TRUE* values. Show new datatype  again *print(df.dtypes)*
+ 
+3) (1 point) Merge the code to main branch and push to github
+
+4) (1 point) Tag the work has HW6
