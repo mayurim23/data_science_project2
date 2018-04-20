@@ -161,7 +161,7 @@ I will go over basic of python and jupyter notebook.
 |     5 | [[./hws/chapter7_more_ex.ipynb][movie analysis using pandas]]                                     | April 27, 11.59 p.m |
 |       |                                                                 |                     |
 |-------+-----------------------------------------------------------------+---------------------|
-|     6 | [[./hws/HW4.org][finish these project activities]]                                 | April 25, 11.59 p.m |
+|     6 | [[./hws/HW6.org][finish these project activities]]                                 | April 25, 11.59 p.m |
 |-------+-----------------------------------------------------------------+---------------------|
 |       |                                                                 |                     |
 
