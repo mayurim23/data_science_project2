@@ -18,7 +18,7 @@ Following activities will be graded.
 1) (1 point) create a branch for HW6_youname using branch command. You may want to look into previous quarter git resources. 
    Even if two person are working in a project, please create your own branch. Switch to your branch and work there in file  *your_project.py*.
    Push you branch to github too. 
- In case of multiple students are in a project, I'll advise put a Comment in *your_project.py* indicating your section of code. See [[./test/py][this file]] for example.
+ In case of multiple students are in a project, I'll advise put a Comment in *your_project.py* indicating your section of code. See [[./test.py][this file]] for example.
   Also for
   - jury project divide the work between new and old dataset 
   - Lego Project divide the work for 8 table.
@@ -39,4 +39,4 @@ Please do the following for each dataframe.
  
 3) (1 point) Merge the code to main branch and push to github
 
-4) (1 point) Tag the work has HW6
+4) (1 point) One student in the project, tag the work with HW6
